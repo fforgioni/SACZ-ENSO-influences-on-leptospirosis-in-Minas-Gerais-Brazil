@@ -41,28 +41,6 @@ The repository includes scripts for:
 
 ---
 
-## Repository structure
-SACZ-ENSO-leptospirosis/
-│
-├── scripts/
-│ ├── events/ # Main analysis scripts
-│ └── enso_cases/ # ENSO (El Niño / La Niña) case studies
-│
-├── data/
-│ ├── raw/ # Input datasets (not included)
-│ └── shapefiles/ # Geographic data (Brazil states, geomorphology)
-│
-├── figures/
-│ ├── events/ # Figures for main results
-│ └── enso_cases/ # Figures for ENSO analysis
-│
-├── requirements.txt
-├── LICENSE
-└── README.md
-
-
----
-
 ## Data availability
 
 Due to their size and/or access restrictions, datasets are not included in this repository.
