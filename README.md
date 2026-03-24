@@ -128,6 +128,8 @@ This work provides an integrated framework linking:
 
 It demonstrates that terrain acts as a first-order amplifier of climate–health interactions, particularly in southeastern Minas Gerais.
 
+The `geom_area` shapefile is not included in this repository due to file size limitations. Users should place it in `data/shapefiles/` before running the corresponding scripts.
+
 ## Citation
 
 If you use this code, please cite:
