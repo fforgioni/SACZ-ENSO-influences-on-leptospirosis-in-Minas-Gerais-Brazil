@@ -7,7 +7,7 @@ This repository contains the code and analysis used in the manuscript:
 
 ---
 
-## 📌 Overview
+##Overview
 
 This study investigates how large-scale climate variability, particularly the South Atlantic Convergence Zone (SACZ) and its modulation by the El Niño–Southern Oscillation (ENSO), interacts with regional geomorphological features to influence precipitation extremes and leptospirosis outbreaks in Minas Gerais, Brazil.
 
@@ -21,7 +21,7 @@ The results highlight how multiscale interactions between climate, topography, a
 
 ---
 
-## 🔬 Methods implemented in this repository
+##Methods implemented in this repository
 
 The repository includes scripts for:
 
@@ -40,7 +40,7 @@ The repository includes scripts for:
 
 ---
 
-## 📂 Repository structure
+##Repository structure
 scripts/ # Main analysis scripts
 data/ # (Not included) Input datasets
 figures/ # Output figures
@@ -48,7 +48,7 @@ figures/ # Output figures
 
 ---
 
-## 📊 Data
+##Data
 
 Due to their size and/or access restrictions, datasets are not included in this repository.
 
@@ -68,7 +68,7 @@ They can be obtained from:
 
 ---
 
-## ⚙️ Requirements
+##Requirements
 
 - Python 3.x  
 - numpy  
@@ -79,7 +79,7 @@ They can be obtained from:
 
 ---
 
-## ▶️ How to run
+##How to run
 
 1. Preprocess climate and epidemiological datasets  
 2. Identify SACZ events and ENSO phases  
@@ -88,7 +88,7 @@ They can be obtained from:
 
 ---
 
-## 🌎 Key scientific contribution
+##Key scientific contribution
 
 This work provides an integrated framework linking:
 
@@ -101,7 +101,7 @@ It demonstrates that terrain acts as a **first-order amplifier** of climate–he
 
 ---
 
-## 📄 Citation
+##Citation
 
 If you use this code, please cite:
 
